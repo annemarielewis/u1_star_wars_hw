@@ -1,0 +1,250 @@
+  261  u1_star_wars_hw
+  262  pwd
+  263  act1.sh
+  264  cd act1.sh
+  265  ls
+  266  act1.sh
+  267  ./act1.sh
+  268  ls
+  269  code .
+  270  cat act1.sh
+  271  mkdir star_wars
+  272  star_wars
+  273  mkdir empire rebellion
+  274  empire
+  275  mkdir darth_vader.txt
+  276  echo "...heavy breathing..." > darth_vader.txt
+  277  echo "...heavy breathing..." >> darth_vader.txt\n
+  278  mkdir emperor_palpatine.txt
+  279  mkdir death star
+  280  rm death
+  281  rm star
+  282  rm -r death
+  283  rm -r star
+  284  mkdir death_star
+  285  man rm
+  286  mv darth_vader.txt death_star/\n
+  287  death_star
+  288  ls
+  289  ..
+  290  cat act2.sh
+  291  ..
+  292  cat act2.sh
+  293  star_wars
+  294  rebellion
+  295  mkdir princess_leia.txt
+  296  echo "Help me, Obi-Wan…" > princess_leia.txt
+  297  touch princess_leia.txt
+  298  echo "Help me, Obi-Wan…" > princess_leia.txt
+  299  touch obi_wan.txt
+  300  touch luke_skywalker.txt
+  301  mkdir millenium_falcon
+  302  millenium_falcon
+  303  touch han_solo.txt chewbacca.txt\n
+  304  ls
+  305  mv luke_skywalker millenium_falcon/
+  306  ..
+  307  mv luke_skywalker millenium_falcon/
+  308  ls
+  309  mv luke_skywalker.txt millenium_falcon
+  310  ls
+  311  mv obi_wan.txt millenium_falcon/
+  312  mv princess_leia.txt millenium_falcon/
+  313  millenium_falcon
+  314  ls
+  315  ..
+  316  mv millenium_falcon death_star/
+  317  ..
+  318  mv millenium_falcon death_star/
+  319  star_wars
+  320  empire
+  321  mv millenium_falcon death_star/
+  322  ls
+  323  ..
+  324  mv millenium_falcon death_star/
+  325  mv mv millenium_falcon empire/
+  326  mv millenium_falcon empire/ 
+  327  mv millenium_falcon star_wars/
+  328  mv millenium_falcon death_star/
+  329  rebellion
+  330  mv millenium_falcon star_wars/
+  331  star_wars
+  332  ls
+  333  ..
+  334  mv millenium_falcon star_wars/
+  335  ls
+  336  rebellion
+  337  ls
+  338  star_wars
+  339  ls
+  340  star_wars/rebellion
+  341  ls
+  342  mkdir millenium_falcon
+  343  ls
+  344  ..
+  345  mv millenium_falcon star_wars/
+  346  ..
+  347  mv millenium_falcon star_wars/
+  348  ..
+  349  mv millenium_falcon star_wars/
+  350  star_wars
+  351  rebellion
+  352  mv millenium_falcon star_wars/
+  353  star_wars
+  354  mv millenium_falcon star_wars/
+  355  ls
+  356  death_star
+  357  ..
+  358  death_star
+  359  ..
+  360  death_star
+  361  ..
+  362  u1_star_wars_hw
+  363  ls
+  364  star_wars
+  365  ls
+  366  empire
+  367  ls
+  368  death_star
+  369  ls
+  370  ..
+  371  ls
+  372  rebellion
+  373  ls
+  374  star_wars
+  375  ls
+  376  star_wars
+  377  ls
+  378  ..
+  379  rm -r star_wars
+  380  ..
+  381  princess_leia.txt
+  382  cd star_wars
+  383  princess_leia.txt
+  384  ls
+  385  cd
+  386  locate millenium_falcon
+  387  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist
+  388  locate millenium_falcon
+  389  pwd
+  390  desktop/ga
+  391  ls
+  392  unit1
+  393  week1
+  394  moday
+  395  monday
+  396  ls
+  397  u1_star_wars_hw
+  398  rebellion
+  399  star_wars
+  400  rebellion
+  401  star_wars
+  402  ls
+  403  mv chewbacca.txt  rebellion/
+  404  ..
+  405  mv chewbacca.txt rebellion/
+  406  ..
+  407  mv chewbacca.txt rebellion/
+  408  rebellion
+  409  star_wars
+  410  ls
+  411  mv chewbacca.txt rebellion/
+  412  rm star_wars
+  413  ..
+  414  rm star_wars
+  415  rm -r star_wars
+  416  touch chewbacca.txt
+  417  touch obi_wan.txt
+  418  touch luke_skywalker.txt
+  419  mkdir millenium_falcon
+  420  touch princess_leia.txt
+  421  ls
+  422  mv millenium_falcon star_wars/ 
+  423  ls
+  424  ..
+  425  ls
+  426  rebellion
+  427  ls
+  428  star_wars
+  429  ls
+  430  ..
+  431  empire
+  432  ls
+  433  death_star
+  434  ls
+  435  mv luke_skywalker.txt millenium_falcon\nmv obi_wan.txt millenium_falcon/\nmv princess_leia.txt millenium_falcon/
+  436  ..
+  437  rebellion
+  438  ls
+  439  mkdir millenium_falcon
+  440  ls
+  441  mv luke_skywalker.txt millenium_falcon
+  442  mv obi_wan.txt millenium_falcon/
+  443  mv princess_leia.txt millenium_falcon/
+  444  ls
+  445  mv millenium_falcon death_star
+  446  ls
+  447  man mv
+  448  mv death_star millenium_falcon
+  449  ls
+  450  man mv
+  451  ls
+  452  man mv
+  453  mv millenium_falcon/ ../empire/death_star/
+  454  ls
+  455  cd ../empire/death_star
+  456  ls
+  457  millenium_falcon
+  458  ls
+  459  ..
+  460  mv millenium_falcon/* death_star/
+  461  ..
+  462  death-star
+  463  death_star
+  464  millenium_falcon
+  465  mv millenium_falcon/* death_star/
+  466  ls
+  467  mv luke_skywalker.txt death_star/
+  468  ..
+  469  mv luke_skywalker.txt death_star/
+  470  ls
+  471  millenium_falcon
+  472  ls
+  473  man mv
+  474  ls
+  475  mv luke_skywalker.txt ../../death_star
+  476  ls
+  477  mv *.txt ../../death_star
+  478  ls
+  479  ..
+  480  death_star
+  481  ls
+  482  rm obi_wan.txt
+  483  ls
+  484  mv luke_skywalker.txt millenium_falcon/
+  485  ls
+  486  mv princess_leia.txt millenium_falcon/
+  487  ls
+  488  millenium_falcon
+  489  ls
+  490  ..
+  491  mv millenium_falcon/ ../../rebellion
+  492  ls
+  493  ../..
+  494  rebellion
+  495  ls
+  496  ../..
+  497  ls
+  498  star+wars
+  499  star_wars
+  500  ls
+  501  empire
+  502  ls
+  503  death_star
+  504  ls
+  505  mv darth_vader.txt ../../empire
+  506  ls
+  507  ..
+  508  ls
+  509  rm -r death_star
+  510  ls
