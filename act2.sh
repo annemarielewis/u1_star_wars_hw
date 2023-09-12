@@ -1,6 +1,6 @@
 # 1. Inside the `star_wars/rebellion` directory, (IN ONE COMMAND using &&) create a file called princess_leia.txt with the text "Help me, Obi-Wan…"
 cd star_wars/rebellion
-mkdir princess_leia.txt
+touch princess_leia.txt
 echo "Help me, Obi-Wan…" > princess_leia.txt (THIS DIDN'T WORK)
 # 2. Create a file called obi_wan.txt in star_wars/rebellion
 cd star_wars/rebellion
@@ -21,5 +21,5 @@ mv princess_leia.txt millenium_falcon/
 millenium_falcon
 ls)
 # 7. Move the millenium_falcon into the death_star.
-mv millenium_falcon star_wars/  --> Super odd: this did not move it into the death star but it deleted it from star_wars. 
-I recreated it and tried again, and it did the same thing. Super lost (in space)
+mv millenium_falcon/ ../empire/death_star/      
+-->mv operates differently when moving a directory into anotehr directory. need slash after first then ../file path
